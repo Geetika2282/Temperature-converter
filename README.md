@@ -1,2 +1,3 @@
 # Temperature-converter
-temperature converter using html, css, js
+Temperature converter using html, css, JS
+https://nancydrew-2282.github.io/Temperature-converter/
